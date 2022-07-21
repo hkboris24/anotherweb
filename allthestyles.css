@@ -1,0 +1,61 @@
+table{
+        height: 50%;
+        margin: 2%;
+    }
+    .thecompanylogo{
+        position: absolute;
+        top: 50px;
+        left: 150px;
+        font-size: 100px;
+    }
+    .header{
+        background-color: rgb(0, 200, 255);
+        padding-top: 445%;
+        padding-bottom: 445%;
+    }
+    .navigationlinks{
+        background-color:rgb(0, 132, 255);
+        padding: 2%;
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+
+    .advertising{
+        display: flex;
+        justify-content: space-between;
+        margin:5%;
+        box-shadow: 3px 3px 3px   rgb(0, 200, 255);
+        padding: 5%;
+        text-align: center;
+   }
+   .logoplace{
+        display: flex;
+        justify-content: space-between;
+        margin:5%;
+        box-shadow: 3px 3px 3px 3px rgb(0, 200, 255);
+        padding: 15%;
+   }
+   .mainheader2{
+        background-color: rgb(0, 132, 255);
+        padding: 2%;
+   }
+   .productshead{
+        background-color: rgb(0, 132, 255);
+        padding: 2%;
+   }
+   .jobhead{
+        background-color: rgb(0, 132, 255);
+        padding: 2%;
+   }
+   .markethead{
+        background-color: rgb(0, 132, 255);
+        padding: 2%;
+   }
+   .schoolhead{
+        background-color: rgb(0, 132, 255);
+        padding: 2%;
+   }
+   .footerhead{
+        background-color: rgb(0, 132, 255);
+   }
+
